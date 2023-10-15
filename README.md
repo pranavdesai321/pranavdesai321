@@ -25,7 +25,8 @@ Here are some of my notable projects:
 I'm always eager to connect with fellow enthusiasts, collaborate on projects, or discuss distributed systems and cloud computing. You can find me on:
 
 - [LinkedIn](https://www.linkedin.com/in/pranav-desai1/)
-- [Email](mailto:pranavdesai@gmail.com)
+- [Email](mailto:pranavdesai5678@gmail.com)
+- [Leetcode](https://leetcode.com/email4pranav/)
 
 ## Professional Background
 
