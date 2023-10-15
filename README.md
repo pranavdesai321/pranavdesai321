@@ -24,9 +24,8 @@ Here are some of my notable projects:
 
 I'm always eager to connect with fellow enthusiasts, collaborate on projects, or discuss distributed systems and cloud computing. You can find me on:
 
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-- [Twitter](https://twitter.com/yourhandle)
-- [Email](mailto:your.email@example.com)
+- [LinkedIn](https://www.linkedin.com/in/pranav-desai1/)
+- [Email](mailto:pranavdesai@gmail.com)
 
 ## Professional Background
 
@@ -35,7 +34,7 @@ I'm always eager to connect with fellow enthusiasts, collaborate on projects, or
 - 📚 **Continuous Learning:** Committed to staying updated with the latest trends and best practices in the field.
 
 Feel free to explore my projects and reach out for collaboration or discussions on the exciting world of distributed systems, cloud computing, and fault tolerance! ☁️🌐
-Remember to replace placeholders like [Link to Repository](link-to-circuit-breaker) with actual project names and links and customize it with your specific background and interests. This README serves as a professional introduction to your GitHub profile, highlighting your expertise and projects in the field of distributed systems and cloud computing.
+
 
 
 
