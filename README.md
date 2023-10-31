@@ -13,11 +13,9 @@ Welcome to my GitHub profile! I'm a passionate explorer in the realms of distrib
 Here are some of my notable projects:
 
 1. **Circuit Breaker Library in Go**
-   - [Link to Repository](link-to-circuit-breaker)
    - A Go library for implementing the Circuit Breaker pattern, enhancing fault tolerance in microservices by preventing cascading failures.
 
 2. **AWS Cost Optimizer**
-   - [Link to Repository](link-to-aws-cost-optimizer)
    - An AWS cost optimization tool that helps organizations minimize expenses while maximizing cloud resources' efficiency.
 
 ## Let's Connect
