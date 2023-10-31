@@ -7,6 +7,7 @@ Welcome to my GitHub profile! I'm a passionate explorer in the realms of distrib
 - 👨‍💻 I'm a software engineer at J.P. Morgan Chase, where I work on cutting-edge distributed systems, applying best practices for resilience and performance.
 - ☁️ My expertise lies in leveraging AWS services to build scalable, reliable, and cost-effective cloud solutions.
 - 💡 I'm particularly enthusiastic about fault tolerance in distributed systems and building robust, resilient architectures.
+- - 🧠 I bring extensive experience in data structures and algorithms in C++ to solve complex problems efficiently.
 
 ## Projects
 
